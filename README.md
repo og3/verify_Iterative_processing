@@ -1,24 +1,14 @@
-# README
+# about
+- railsにおける繰り返し処理のパフォーマンスを検証するための環境を用意する
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 試した繰り返し処理
+## each
+## 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# 参考
+- https://qiita.com/nikadon/items/9e6431f5a7b2b8798113
+- https://qiita.com/yu-croco/items/d7a39b34036d638c5026
+- http://cloudcafe.tech/?p=2446
+- https://techracho.bpsinc.jp/hachi8833/2018_01_11/50793
+- https://www.sejuku.net/blog/14955
+- https://www.ibm.com/developerworks/jp/opensource/library/os-railsn1/
