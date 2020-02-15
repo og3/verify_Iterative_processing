@@ -12,3 +12,4 @@
 - https://techracho.bpsinc.jp/hachi8833/2018_01_11/50793
 - https://www.sejuku.net/blog/14955
 - https://www.ibm.com/developerworks/jp/opensource/library/os-railsn1/
+- https://blog.toshimaru.net/rdm2018-active-record-anti-patterns/
