@@ -47,6 +47,11 @@ Completed 200 OK in 491ms (Views: 468.2ms | ActiveRecord: 17.4ms)
 - eachの方が速くない？
 - メモリをどれだけ食わなかったか、はどうやって確かめたらいいのか？
 
+## 問題の解決
+- DBへの負荷はfind_eachの方が小さい（それぞれのクエリの実行時間から）
+- 10000件程度のレコードでは差が出ないかもしれない
+- この処理は「DBのメモリ」の負荷を軽くするためなので、これで問題ない
+
 # 参考
 - https://qiita.com/nikadon/items/9e6431f5a7b2b8798113
 - https://qiita.com/yu-croco/items/d7a39b34036d638c5026
